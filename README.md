@@ -1,1 +1,1 @@
-# students
+# For learning django, I write this project.
